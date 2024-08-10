@@ -1,4 +1,4 @@
-import './Creation.css'
+import "./Creation.css";
 
 const Creation = () => {
   return (
@@ -18,7 +18,7 @@ const Creation = () => {
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default Creation
+export default Creation;
