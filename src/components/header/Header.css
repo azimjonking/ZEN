@@ -1,0 +1,78 @@
+header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 446.84px;
+  margin-top: 23px;
+}
+header .left {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+header .left ul {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  text-decoration: none;
+  list-style: none;
+}
+header .left ul li a {
+  text-decoration: none;
+  list-style: none;
+}
+header .left img {
+  width: 114.01px;
+  height: 38.62px;
+  top: 0.79px;
+  left: 0px;
+  gap: 0px;
+  opacity: 0px;
+}
+header .left ul li a {
+  width: 173px;
+  height: 32px;
+  top: 4px;
+  left: 144.16px;
+  padding: 8px 10.16px 2px 9.84px;
+  gap: 0px;
+  opacity: 0px;
+  color: #222222;
+}
+header .right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+header .right ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  text-decoration: none;
+  list-style: none;
+}
+header .right ul li a {
+  text-decoration: none;
+  list-style: none;
+  color: #222222;
+  width: 173px;
+  height: 32px;
+  top: 4px;
+  left: 144.16px;
+  padding: 8px 10.16px 2px 9.84px;
+  gap: 0px;
+  opacity: 0px;
+}
+header .right button {
+  width: 131px;
+  height: 48px;
+  gap: 0px;
+  border-radius: 48px;
+  opacity: 0px;
+  color: #000000;
+  border: 1px solid #000000;
+  background-color: white;
+  margin-left: 40px;
+}
