@@ -1,0 +1,68 @@
+.cashback {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.cashback .header p {
+  width: 584px;
+  height: 156px;
+  top: 41px;
+  left: 8px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25.92px;
+  text-align: center;
+  color: #222222;
+}
+.cashback .container button {
+  width: 237px;
+  height: 48px;
+  gap: 0px;
+  border-radius: 48px;
+  border: 1px;
+  margin-top: 30px;
+  opacity: 0px;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+}
+.cashback .header h2 {
+  width: 236px;
+  height: 44px;
+  top: -3px;
+  left: 182px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Nunito;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 43.2px;
+  color: #222222;
+  text-align: center;
+  margin-left: 160px;
+}
+.cashback .container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.cashback .container .logo0 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 119.86px;
+  margin-top: 60px;
+}
+
+.cashback .container .logo100 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 119.86px;
+  margin-top: 60px;
+}
