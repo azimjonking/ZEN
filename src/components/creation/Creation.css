@@ -1,0 +1,35 @@
+.big{
+    width: 1290px;
+    height: 458px;
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+    gap: 135px;
+    justify-content: center;
+    margin-left: 50px;
+}
+.box-img{
+    width: 585px;
+    height: 458px;
+    /* border: 2px solid black; */
+}
+.box-text{
+    width: 480px;
+    height: 363px;
+    /* border: 2px solid black; */
+}
+.box-img img{
+    margin-top: -30px;
+}
+.box-text h2{
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 40px;
+}
+.box-text h3{
+    font-weight: 400;
+    margin-top: 18px;
+}
+.box-text img{
+    margin-top: 25px;
+}
