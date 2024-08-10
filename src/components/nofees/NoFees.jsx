@@ -4,7 +4,7 @@ const NoFees = () => {
   return (
     <section className="nofees">
       <div className="nof1">
-        <img src="./src/assets/Rectangle (3).png" alt="" />
+        <img src="../src/assets/Rectangle (3).png" alt="" />
       </div>
       <div className="nof2">
         <h1>Shopping with no fees</h1>

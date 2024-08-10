@@ -16,7 +16,7 @@ const Account = () => {
         </p>
       </div>
       <div className="acc2">
-        <img src="./src/assets/Rectangle (4).png" alt="" />
+        <img src="../src/assets/Rectangle (4).png" alt="" />
       </div>
     </section>
   );

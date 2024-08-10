@@ -14,15 +14,15 @@ const MasterCard = () => {
         </p>
         <div className="btn">
           <button>
-            <img src="./src/assets/Vector.png" alt="" />
+            <img src="../src/assets/Vector.png" alt="" />
           </button>
           <button>
-            <img src="./src/assets/Group (3).png" alt="" />
+            <img src="../src/assets/Group (3).png" alt="" />
           </button>
         </div>
       </div>
       <div className="master2">
-        <img src="./src/assets/Rectangle (2).png" alt="" />
+        <img src="../src/assets/Rectangle (2).png" alt="" />
       </div>
     </section>
   );
