@@ -1,0 +1,29 @@
+.nofees {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 135px;
+  padding: 75px 75px;
+}
+
+.nof2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  gap: 22px;
+}
+
+.nof2 h1 {
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 43.2px;
+  text-align: left;
+}
+
+.nof2 p {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25.92px;
+  text-align: left;
+}

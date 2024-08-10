@@ -1,11 +1,11 @@
-import './Creation.css'
+import "./Creation.css";
 
 const Creation = () => {
   return (
-    <section className='creation'>
-      <h1>Creation</h1>
+    <section className="creation">
+      
     </section>
-  )
-}
+  );
+};
 
-export default Creation
+export default Creation;
